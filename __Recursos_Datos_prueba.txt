@@ -1,0 +1,5 @@
+Ecuacion con imaginarios
+X1+2i*X2+3*X3-1-7i
+(1+i)*X1-X2+(2-i)*X3-3-4i
+-i*X1+(2+i)*X2-i*X3-3
+X1=1-1i, X2=1, X3=2i
